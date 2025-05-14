@@ -1,0 +1,10 @@
+Payment Receipt
+-------------------------
+Payment ID: PAYID-M754T3A8YV61158K04702443
+State: approved
+Intent: sale
+Payer: sb-pipuw40067835@personal.example.com
+Description: Car Wash Payment
+Amount: 2.00 USD
+-------------------------
+Thank you for your payment.
